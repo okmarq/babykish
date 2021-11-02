@@ -17,7 +17,7 @@
         <div class="header-search hs-simple">
             <form action="search-result" class="input-wrapper">
                 <input type="text" class="form-control ui-autocomplete-input" id="order_number" name="order_number" autocomplete="off" placeholder="Search Order Number Here...">
-                <button class="btn btn-primary btn-search" type="submit">Search</button>
+                <button class="btn btn-primary btn-search my-3" type="submit">Search</button>
             </form>
         </div>
 
